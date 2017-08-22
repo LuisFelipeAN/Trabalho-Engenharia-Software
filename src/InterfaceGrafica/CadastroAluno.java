@@ -19,6 +19,9 @@ public class CadastroAluno extends javax.swing.JFrame {
     /**
      * Creates new form CadastroAluno
      */
+  public CadastroAluno(int a) {
+        initComponents();
+    }
     public CadastroAluno() {
         initComponents();
     }
